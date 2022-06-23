@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run SSRS_Eng_run.py
